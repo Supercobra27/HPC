@@ -8,3 +8,4 @@ Collection of resources regarding High Performance Computing
 - [IDPDS](https://www.ipdps.org/)
 - [ISC](https://isc-hpc.com/)
 - [ISCA](https://iscaconf.org/)
+- [arXiv](https://arxiv.org/)
