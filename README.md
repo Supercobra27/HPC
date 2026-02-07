@@ -22,6 +22,7 @@ Collection of resources regarding High Performance Computing
 
 # Awesome Lists
 - [Optics/Photonics](https://github.com/BabarZKhan/awesome-optics-photonics)
+- [HPC](https://github.com/trevor-vincent/awesome-high-performance-computing) - I met the guy who owns this, chill af
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love/tree/main)
 
 # Courses
