@@ -44,3 +44,9 @@ Collection of resources regarding High Performance Computing
 - [IEEE Spectrum](https://spectrum.ieee.org/)
 - [Semiconductor Today](https://www.semiconductor-today.com/)
 - [The Next Platform](https://www.nextplatform.com/)
+
+# Chip Design Tooling
+- [OpenEMS](https://www.openems.de/) - RF
+- [LibreLane](https://github.com/librelane/librelane)
+- [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
+- [Chipyard](https://github.com/ucb-bar/chipyard)
