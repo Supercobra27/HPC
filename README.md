@@ -17,6 +17,8 @@ Collection of resources regarding High Performance Computing
 
 # Labs
 - SPCL, ETH Zurich
+- CAESAR, Queen's University
+- PPRL, Queen's University
 
 # Awesome Lists
 - [Optics/Photonics](https://github.com/BabarZKhan/awesome-optics-photonics)
@@ -32,3 +34,11 @@ Collection of resources regarding High Performance Computing
 
 # Companies (Semiconductors)
 - [List](https://github.com/aolofsson/awesome-semiconductor-startups?tab=readme-ov-file)
+
+# News Sources
+- [EE Times](https://www.eetimes.com/)
+- [Semiengineering](https://semiengineering.com/) - favorite
+- [InsideHPC](https://insidehpc.com/)
+- [HPCwire](https://www.hpcwire.com/)
+- [IEEE Spectrum](https://spectrum.ieee.org/)
+- [Semiconductor Today](https://www.semiconductor-today.com/)
