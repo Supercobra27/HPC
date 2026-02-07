@@ -42,3 +42,4 @@ Collection of resources regarding High Performance Computing
 - [HPCwire](https://www.hpcwire.com/)
 - [IEEE Spectrum](https://spectrum.ieee.org/)
 - [Semiconductor Today](https://www.semiconductor-today.com/)
+- [The Next Platform](https://www.nextplatform.com/)
