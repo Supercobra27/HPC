@@ -9,23 +9,35 @@ Collection of resources regarding High Performance Computing
 - [CCGrid](https://dl.acm.org/conference/ccgrid)
 - [ESSA (2026)](https://sites.google.com/view/essa-2026/) - Just change the URL to check past conferences
 - [ISC](https://isc-hpc.com/)
+- [ICS](https://www.ics-conference.org/)
 - [ISCA](https://iscaconf.org/)
 - [OFC](https://www.ofcconference.org/)
 - [IEEE-HPEC](https://ieee-hpec.org/)
 - [PEARC](https://pearc.acm.org/)
 - [IRCA (2026)](https://2026.ieee-icra.org/) - Just change the URL to check past conferences
+- [PPoPP (2026)](https://ppopp26.sigplan.org/home) - Just change the URL to check past conferences
+- [SPAA](https://spaa.acm.org/)
+- [ICPP]() - No consistent link
+
+# University Labs
+- [SPCL, ETH Zurich](https://spcl.ethz.ch/)
+- [SAFARI, ETH Zurich](https://safari.ethz.ch/)
+- [CAESAR, Queen's University](https://caesar.engineering.queensu.ca/)
+- [PPRL, Queen's University](https://www.queensu.ca/academia/afsahi/pprl/)
+- [HPCAS, UNC](https://passlab.github.io/)
 
 # Labs
-- SPCL, ETH Zurich
-- CAESAR, Queen's University
-- PPRL, Queen's University
+- LLNL
+- ORNL
+- Sandia
+- Argonne National Laboratory
 
 # Awesome Lists
 - [Optics/Photonics](https://github.com/BabarZKhan/awesome-optics-photonics)
 - [HPC](https://github.com/trevor-vincent/awesome-high-performance-computing) - I met the guy who owns this, chill af
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love/tree/main)
 
-# Courses
+# Journals
 
 # Paper Sources
 - [arXiv](https://arxiv.org/)
