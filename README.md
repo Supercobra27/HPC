@@ -18,6 +18,8 @@ Collection of resources regarding High Performance Computing
 - [PPoPP (2026)](https://ppopp26.sigplan.org/home) - Just change the URL to check past conferences
 - [SPAA](https://spaa.acm.org/)
 - [ICPP]() - No consistent link
+- [ISSCC](https://www.isscc.org/)
+- [HPCA](https://hpca-conf.org/)
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
