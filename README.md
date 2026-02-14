@@ -20,6 +20,9 @@ Collection of resources regarding High Performance Computing
 - [ICPP]() - No consistent link
 - [ISSCC](https://www.isscc.org/)
 - [HPCA](https://hpca-conf.org/)
+- [FCCM](https://www.fccm.org/)
+- [FPL](https://fpl.org/)
+- [ISFPGA](https://www.isfpga.org/)
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
