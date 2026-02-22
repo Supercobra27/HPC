@@ -23,6 +23,9 @@ Collection of resources regarding High Performance Computing
 - [FCCM](https://www.fccm.org/)
 - [FPL](https://fpl.org/)
 - [ISFPGA](https://www.isfpga.org/)
+- [IPFA](https://ipfaieee.org/)
+- [CPPCON](https://cppcon.org/)
+- [FPGAHorizons](https://www.fpgahorizons.com/)
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
