@@ -31,6 +31,7 @@ Collection of resources regarding High Performance Computing
 - [DesignCon]()
 - [HotStorage]()
 - [SIGCOMM (2025)](https://conferences.sigcomm.org/sigcomm/2025/) - More Data Center than anything (Change the URL)
+- [HotNets (2025)](https://conferences.sigcomm.org/hotnets/2025/)
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
