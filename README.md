@@ -26,6 +26,11 @@ Collection of resources regarding High Performance Computing
 - [IPFA](https://ipfaieee.org/)
 - [CPPCON](https://cppcon.org/)
 - [FPGAHorizons](https://www.fpgahorizons.com/)
+- [ICDCS]()
+- [IEEE-NANO]()
+- [DesignCon]()
+- [HotStorage]()
+- [SIGCOMM (2025)](https://conferences.sigcomm.org/sigcomm/2025/) - More Data Center than anything (Change the URL)
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
