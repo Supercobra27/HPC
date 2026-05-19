@@ -29,9 +29,13 @@ Collection of resources regarding High Performance Computing
 - [ICDCS]()
 - [IEEE-NANO]()
 - [DesignCon]()
-- [HotStorage]()
+- [HotStorage]()    
 - [SIGCOMM (2025)](https://conferences.sigcomm.org/sigcomm/2025/) - More Data Center than anything (Change the URL)
 - [HotNets (2025)](https://conferences.sigcomm.org/hotnets/2025/)
+- [SysTor (2026)](https://www.systor.org/2026/)
+- [AI Infra Summit](https://www.ai-infra-summit.com/)
+- [OCP Summit](https://www.opencompute.org/summit/global-summit)
+- [IEEE Quantum Week (2026)](https://qce.quantum.ieee.org/2026) - toronto this year
 
 # University Labs
 - [SPCL, ETH Zurich](https://spcl.ethz.ch/)
