@@ -1,5 +1,5 @@
 # HPC
-Collection of resources regarding High Performance Computing
+Collection of awesome resources regarding High Performance Computing
 
 # Conference List
 - [Hot Interconnects](https://hoti.org/)
@@ -14,7 +14,7 @@ Collection of resources regarding High Performance Computing
 - [OFC](https://www.ofcconference.org/)
 - [IEEE-HPEC](https://ieee-hpec.org/)
 - [PEARC](https://pearc.acm.org/)
-- [IRCA (2026)](https://2026.ieee-icra.org/) - Just change the URL to check past conferences
+- [ICRA (2026)](https://2026.ieee-icra.org/) - Just change the URL to check past conferences
 - [PPoPP (2026)](https://ppopp26.sigplan.org/home) - Just change the URL to check past conferences
 - [SPAA](https://spaa.acm.org/)
 - [ICPP]() - No consistent link
@@ -26,10 +26,10 @@ Collection of resources regarding High Performance Computing
 - [IPFA](https://ipfaieee.org/)
 - [CPPCON](https://cppcon.org/)
 - [FPGAHorizons](https://www.fpgahorizons.com/)
-- [ICDCS]()
-- [IEEE-NANO]()
-- [DesignCon]()
-- [HotStorage]()    
+- [ICDCS (2026)](https://icdcs2026.icdcs.org/)
+- [IEEE-NANO (2026)](https://2026.ieeenano.org/)
+- [DesignCon](https://www.designcon.com/)
+- [HotStorage](https://www.hotstorage.org/)    
 - [SIGCOMM (2025)](https://conferences.sigcomm.org/sigcomm/2025/) - More Data Center than anything (Change the URL)
 - [HotNets (2025)](https://conferences.sigcomm.org/hotnets/2025/)
 - [SysTor (2026)](https://www.systor.org/2026/)
